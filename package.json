@@ -1,0 +1,29 @@
+{
+  "name": "@khoulzo/itsm-date-formatter",
+  "version": "1.0.0",
+  "description": "format date",
+  "main": "index.js",
+  "dependencies": {
+    "ionic": "^3.1.2"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoulzo/itsm-date-formatter.git"
+  },
+  "author": "“Ibrahima <“khouleibrahima@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoulzo/itsm-date-formatter/issues"
+  },
+  "homepage": "https://github.com/khoulzo/itsm-date-formatter#readme"
+}
