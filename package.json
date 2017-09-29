@@ -4,7 +4,8 @@
   "description": "format date",
   "main": "index.js",
   "dependencies": {
-    "ionic": "^3.1.2"
+    "ionic": "^3.1.2",
+    "is-undefined": "^1.0.8"
   },
   "engines": {
     "node": ">=4.2.4"
@@ -18,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khoulzo/itsm-date-formatter.git"
+    "url": "git+https://github.com/khouleBousso/itsm-date-formatter.git"
   },
   "author": "“Ibrahima <“khouleibrahima@gmail.com”>",
   "license": "ISC",

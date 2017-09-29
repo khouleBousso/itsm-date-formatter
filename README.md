@@ -9,12 +9,12 @@ A small library that format date
 
 ## Usage
 
-    var numFormatter = require('@khoulzo/itsm-date-formatter');
-
-    var formattedNum = dateFormatter(35666);
+    var itsmDateFormatter = require('@khoulzo/itsm-date-formatter');
+    var date = new Date();
+    var dayOfDate = itsmDateFormatter(date);
   
   
-  Output should be `35,666`
+  Output should be `the day of this date`
 
 
 ## Tests
