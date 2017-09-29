@@ -1,6 +1,6 @@
 {
   "name": "@khoulzo/itsm-date-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "format date",
   "main": "index.js",
   "dependencies": {
@@ -24,7 +24,7 @@
   "author": "“Ibrahima <“khouleibrahima@gmail.com”>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khoulzo/itsm-date-formatter/issues"
+    "url": "https://github.com/khouleBousso/itsm-date-formatter/issues"
   },
-  "homepage": "https://github.com/khoulzo/itsm-date-formatter#readme"
+  "homepage": "https://github.com/khouleBousso/itsm-date-formatter#readme"
 }
